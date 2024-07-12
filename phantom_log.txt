@@ -1,0 +1,24 @@
+File: *./media/books.txt
+Original Checksum: 
+New Checksum: 266d41a5622dc4004b66ca8f0766b12dcaf47d02e19dae3c4432f734ebe7cfa2
+---------------------------
+File: *./media/checksums.txt
+Original Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Checksum: 03122d831b67140643d21e6a27933ba6892da4fcf8516ee714dd06b5c47830e4
+---------------------------
+File: *./media/movies.txt
+Original Checksum: ec63fcc8f37d2fb2a92b4bfcb1e67a10fd3a8482cee2dff833f5b882c2ba38c3
+New Checksum: 8d6b26d9d186cbca18c668339ce2cac085681e1c5c6f87243a5b0820097f4c6b
+---------------------------
+File: *./media/books.txt
+Original Checksum: 
+New Checksum: 266d41a5622dc4004b66ca8f0766b12dcaf47d02e19dae3c4432f734ebe7cfa2
+---------------------------
+File: *./media/checksums.txt
+Original Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Checksum: 03122d831b67140643d21e6a27933ba6892da4fcf8516ee714dd06b5c47830e4
+---------------------------
+File: *./media/movies.txt
+Original Checksum: ec63fcc8f37d2fb2a92b4bfcb1e67a10fd3a8482cee2dff833f5b882c2ba38c3
+New Checksum: 8d6b26d9d186cbca18c668339ce2cac085681e1c5c6f87243a5b0820097f4c6b
+---------------------------

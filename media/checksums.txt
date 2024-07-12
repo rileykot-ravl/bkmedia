@@ -1,0 +1,3 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 *./media/checksums.txt
+ec63fcc8f37d2fb2a92b4bfcb1e67a10fd3a8482cee2dff833f5b882c2ba38c3 *./media/movies.txt
+f8b9ef99de202d62360fe5403adab3e8bba6de1da54335c1395550f04cf51522 *./media/tv.txt
